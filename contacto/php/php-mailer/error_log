@@ -1,0 +1,14 @@
+[24-Oct-2018 10:20:07 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/ab5839/public_html/amaip/php/php-mailer/class.phpmaileroauth.php on line 27
+[25-Oct-2018 22:15:53 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[25-Oct-2018 22:15:53 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[25-Oct-2018 22:15:53 America/Chicago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php56/lib/php') in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[27-Oct-2018 15:18:46 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[27-Oct-2018 15:18:46 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[27-Oct-2018 15:18:46 America/Chicago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php56/lib/php') in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[16-Nov-2018 21:18:37 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/ab5839/public_html/amaip/php/php-mailer/class.phpmaileroauth.php on line 27
+[02-Jan-2019 14:11:29 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[02-Jan-2019 14:11:29 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[02-Jan-2019 14:11:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php56/lib/php') in /home/ab5839/public_html/amaip/php/php-mailer/get_oauth_token.php on line 18
+[02-Jan-2019 14:20:49 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/ab5839/public_html/amaip/php/php-mailer/class.phpmaileroauth.php on line 27
+[06-Jan-2019 03:55:54 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/ab5839/public_html/amaip/php/php-mailer/class.phpmaileroauth.php on line 27
+[11-Jan-2019 06:59:09 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/ab5839/public_html/amaip/php/php-mailer/class.phpmaileroauth.php on line 27

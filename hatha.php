@@ -38,8 +38,8 @@
                         <div class="single-content">
                             <!-- Background Image -->
                             <div class="mnmd-block mnmd-block--fullwidth mnmd-block--contiguous single-billboard single-billboard--sm">
-                                <div class="background-img background-img--scrim-bottom hidden-xs hidden-sm" style="background-image: url('img/reformer.jpg');"></div>
-                                <div class="background-img hidden-md hidden-lg" style="background-image: url('img/reformer.jpg');"></div>
+                                <div class="background-img background-img--scrim-bottom hidden-xs hidden-sm" style="background-image: url('img/yoga.jpeg');"></div>
+                                <div class="background-img hidden-md hidden-lg" style="background-image: url('img/yoga.jpeg');"></div>
                             </div>
                             <!-- Descripción del Curso -->
                             <header>
@@ -61,44 +61,45 @@
                                                     </i>
                                                 </span>
                                             </p>
-                                            <p><strong>Días y horarios</strong>: Sábados de 16hs. a 19hs.</p>
+                                            <p><strong>Las fechas exactas son</strong>: 7 Marzo, 14 Marzo, 28 Marzo, 4 Abril, 11 Abril, 25 Abril, 9 Mayo, 16 Mayo, 23 Mayo</p>
+                                            <p><strong>Horario</strong>:Sábados de 16hs. a 19hs.</p>
                                             <p><strong>Ubicación</strong>: Doblas 1356, Parque Chacabuco, CABA.</p>
+                                            
                                         </div>
-
+                                        <!-- guardado por las dudas para proximo curso
+                                        <div class="cursadas container container--narrow">
+                                            <h5 class="text-center"><strong>Próximo Curso</strong></h5>
+                                            <div class="curso">
+                                                <h6><strong><i>Marzo - Abril - Mayo</i></strong></h6>
+                                                <ul class="lista-curso">
+                                                    <li>Las fechas exactas del cursada son: 7 Marzo, 14 Marzo, 28 Marzo, 4 Abril, 11 Abril, 25 Abril, 9 Mayo, 16 Mayo, 23 Mayo </li>                                                                                         </ul>
+                                                </ul>
+                                            </div>
+                                            <p>* Si algún sábado no puedes asistir, la clase será filmada y compartida en grupo privado de Facebook, y podrás realizar las consultas la clase siguiente.</p>
+                                        </div>
+                                        -->
                                         <hr>
 
-                                        <div class="descripcion text-center">
-                                            <div class="row justify-content-around">
-                                                <div class="elemento secundario col-sm-3">
-                                                        <img src="img/diploma-scroll.png" alt="logo-descripcion">
-                                                    <p>En esta capacitación te llevas la certificación como instructor/a de Yoga.</p>
-                                                </div>
-                                                <div class="elemento principal col-sm-4">
-                                                    <img src="img/diploma.png" alt="logo-descripcion">
-                                                    <h3>¡¡Certificación oficial!!</h3>
-                                                    <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                                </div>
-                                                <div class="elemento secundario col-sm-3">
-                                                    <img src="img/mision.png" alt="logo-descripcion">
-                                                    <p>La misión de este instructorado es poder certificarlos y conseguir una salida laboral en cualquier parte de la Argentina.</p>
-                                                </div>
-                                            </div>
-                                            <div class="row justify-content-around">
-                                                <div class="elemento secundario col-sm-5">
-                                                    <img src="img/video.png" alt="logo-descripcion">
-                                                    <p>Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</p>
-                                                </div>
-                                                <div class="elemento secundario col-sm-5">
-                                                    <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                                    <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
-                                                </div>
+                                        <div class="cobros container container--narrow">
+                                            <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                            <ul class="lista-curso">
+                                                <li>Precio: $2.800 (ARS) por mes. No cobramos matrícula</li>
+                                                <li>Abonando el primer mes realizás tu reserva</li>
+                                                <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                            </ul>
+                                            <div class="pago text-center" style="margin-top:1rem;">
+                                                <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-3dd120ab-a698-4795-8e6b-3ca5285ef636">
+                                                    <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                                </a>
+                                                <br>
+                                               <!-- <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">-->
                                             </div>
                                         </div>
-                                                                      
+
                                         <hr>
 
                                         <div class="bloques-curso container container--narrow">
-                                            <h5 class="text-center"><strong>Bloques del curso</strong></h5>
+                                            <h5 class="text-center"><strong>Temario</strong></h5>
                                             <div class="bloques-yoga">
                                                 <div class="bloque">
                                                     <div class="card bg-light mb-3" >
@@ -438,6 +439,7 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <!--
                                             <div class="nota container container--narrow">
                                                 <h5><strong>Nota:</strong></h5>
                                                 <p class="parrafo-titulo">Cada jornada finalizará con práctica de yoga guiada por el disertante.</p>
@@ -462,11 +464,11 @@
                                                 </ul>
                                             </div>
                                         </div>
-
+-->
                                         <hr>
                                         
                                         <div class="prologo-yoga container container--narrow">
-                                            <h5><strong>Prólogo:</strong></h5>
+                                            <h5><strong>Fundamentación:</strong></h5>
                                             <p class="parrafo-titulo">
                                                 La práctica del Yoga está teniendo, sin lugar a dudas, gran influencia en el
                                                 mundo occidental. Durante éste siglo hemos sido un número impresionante los
@@ -495,26 +497,57 @@
 
                                         <hr>
 
+                                        <div class="descripcion text-center">
+                                            <div class="row justify-content-around">
+                                                <div class="elemento secundario col-sm-3">
+                                                        <img src="img/diploma-scroll.png" alt="logo-descripcion">
+                                                    <p>En esta capacitación te llevas la certificación como instructor/a de Yoga.</p>
+                                                </div>
+                                                <div class="elemento principal col-sm-4">
+                                                    <img src="img/D-yoga.png" alt="logo-descripcion">
+                                                    <h3>¡¡Certificación oficial!!</h3>
+                                                    <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado  (Matricula Cf 2865).</p>
+                                                </div>
+                                                <div class="elemento secundario col-sm-3">
+                                                    <img src="img/mision.png" alt="logo-descripcion">
+                                                    <p>La misión de este instructorado es poder certificarlos y conseguir una salida laboral en cualquier parte de la Argentina.</p>
+                                                </div>
+                                            </div>
+                                            <div class="row justify-content-around">
+                                                <div class="elemento secundario col-sm-5">
+                                                    <img src="img/video.png" alt="logo-descripcion">
+                                                    <p>Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</p>
+                                                </div>
+                                                <div class="elemento secundario col-sm-5">
+                                                    <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                                    <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                      
+                                        <hr>
+<!-- guardado por las dudas
                                         <div class="cursadas container container--narrow">
                                             <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                             <div class="curso">
-                                                <h6><strong><i>Marzo - Mayo</i></strong></h6>
+                                                <h6><strong><i>Marzo - Abril - Mayo</i></strong></h6>
                                                 <ul class="lista-curso">
-                                                    <li>Las clases comienzan el sábado 7 de Marzo y finalizan el sábado 23 de Abril.</li>                                                                                         </ul>
+                                                    <li>Las fechas exactas del cursada son: 7 Marzo, 14 Marzo, 28 Marzo, 4 Abril, 11 Abril, 25 Abril, 9 Mayo, 16 Mayo, 23 Mayo </li>                                                                                         </ul>
                                                 </ul>
                                             </div>
                                             <p>* Si algún sábado no puedes asistir, la clase será filmada y compartida en grupo privado de Facebook, y podrás realizar las consultas la clase siguiente.</p>
                                         </div>
 
                                         <hr>
-
+-->
                                         <div class="cobros container container--narrow">
-                                            <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                            <h5 class="text-center"><strong>Paga Aqui</strong></h5>
+                                            <!--
                                             <ul class="lista-curso">
                                                 <li>Precio de reserva: $2.800 (ARS) por mes.</li>
-                                                <li>Precio final: $8.400 (ARS).</li>
+                                                <li>Paga tu primer cuota y reserva tu vacante aqui.</li>
                                                 <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                            </ul>
+                                            </ul>-->
                                             <div class="pago text-center" style="margin-top:1rem;">
                                                 <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-3dd120ab-a698-4795-8e6b-3ca5285ef636">
                                                     <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

@@ -84,11 +84,11 @@
                                     <li>
                                         <article class="post post--vertical cat-6">
                                             <div class="post__thumb">
-                                                <a href="personalfuncional-la-falda.php"><img src="img/funcional.jpg" alt="image"></a>
+                                                <a href="personalfuncional-gualeguaychu.php"><img src="img/funcional.jpg" alt="image"></a>
                                             </div>
                                             <div class="post__text">
                                                 <h3 class="post__title typescale-0">
-                                                    <a href="personalfuncional-la-falda.php"><strong>PERSONAL TRAINER Y ENTRENAMIENTO FUNCIONAL (Sede La Falda)</strong></a>
+                                                    <a href="personalfuncional-gualeguaychu.php"><strong>PERSONAL TRAINER Y ENTRENAMIENTO FUNCIONAL (Sede Gualeguaychú)</strong></a>
                                                 </h3>
                                             </div>
                                         </article>
@@ -409,7 +409,7 @@
                 <ul class="sub-menu">                                               
                     <li><a href="hatha.php">INSTRUCTORADO DE HATHA YOGA</a></li>
                     <li><a href="personaltrainer.php">PERSONAL TRAINER Y ENTRENAMIENTO FUNCIONAL (Sede Parque Chacabuco)</a></li>
-                    <li><a href="personalfuncional-la-falda.php">PERSONAL TRAINER Y ENTRENAMIENTO FUNCIONAL (Sede La Falda)</a></li>
+                    <li><a href="personalfuncional-gualeguaychu.php">PERSONAL TRAINER Y ENTRENAMIENTO FUNCIONAL (Sede Gualeguaychú)</a></li>
                     <li><a href="reformer.php">PILATES MAT Y REFORMER (Sede Belgrano)</a></li>
                     <li><a href="reformerdoblas.php">PILATES MAT Y REFORMER (Sede Parque Chacabuco)</a></li>
                     

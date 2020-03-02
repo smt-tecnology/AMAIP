@@ -24,5 +24,5 @@
     <!-- Estilos -->
     <link href="css/vendors.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="../css/custom.css">
 </head>

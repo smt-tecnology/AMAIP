@@ -60,47 +60,34 @@
                                                         </i>
                                                     </span>
                                                 </p>
-                                                <p><strong>Días y horarios</strong>: Sábados de 9:30hs. a 12:30hs.</p>
+                                                
+                                                <p><strong>Horarios</strong>: Sábados de 9:30hs. a 12:30hs.</p>
                                                 <p><strong>Ubicación</strong>: Av. Cabildo 34, Belgrano, CABA.</p>
                                             </div>
 
                                             <hr>
 
-
-                                            <div class="descripcion text-center">
-                                                <div class="row justify-content-around">
-                                                    <div class="elemento secundario col-sm-3">
-                                                            <img src="img/diploma-scroll.png" alt="logo-descripcion">
-                                                        <p>En esta capacitación te llevas la certificación de Personal trainer, con orientación a Musculación.</p>
-                                                    </div>
-                                                    <div class="elemento principal col-sm-4">
-                                                            <img src="img/diploma.png" alt="logo-descripcion">
-                                                        <h3>¡¡Certificación oficial!!</h3>
-                                                        <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                                    </div>
-                                                    <div class="elemento secundario col-sm-3">
-                                                            <img src="img/mision.png" alt="logo-descripcion">
-                                                        <p>La misión de este instructorado es el objetivo es poder
-                                                        certificarlos para una Salida laboral en Gimnasios y/o
-                                                        Particulares.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="row justify-content-around">
-                                                    <div class="elemento secundario col-sm-5">
-                                                            <img src="img/video.png" alt="logo-descripcion">
-                                                        <p>Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</p>
-                                                    </div>
-                                                    <div class="elemento secundario col-sm-5">
-                                                        <img src="img/material bibliográfico.png" alt="logo-descripcion">
-                                                        <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
-                                                    </div>
+                                            <div class="cobros">
+                                                <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                                <ul class="lista-curso">
+                                                    <li>Precio: $3.500 (ARS) por mes. No cobramos matrícula</li>
+                                                    <li>Abonando el primer mes realizás tu reserva</li>
+                                                    <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                                </ul>
+                                                <div class="pago text-center" style="margin-top:1rem;">
+                                                    <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                                    <br>
+                                                    <!--
+                                                    <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">-->
                                                 </div>
                                             </div>
 
                                             <hr>
 
+                                            
+
                                             <div class="bloques-curso">
-                                                <h5 class="text-center"><strong>Bloques del curso</strong></h5>
+                                                <h5 class="text-center"><strong>Temario</strong></h5>
                                                 <div class="bloques">
                                                     <div class="bloque">
                                                         <div class="card bg-light mb-3" style="max-width: 18rem;">
@@ -277,6 +264,7 @@
 
                                             <hr>
 
+                                            <!--
                                             <div class="cursadas">
                                                 <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                                 <div class="curso">
@@ -288,14 +276,43 @@
                                             </div>
 
                                             <hr>
+                                            -->
+
+                                            <div class="descripcion text-center">
+                                                <div class="row justify-content-around">
+                                                    <div class="elemento secundario col-sm-3">
+                                                            <img src="img/diploma-scroll.png" alt="logo-descripcion">
+                                                        <p>En esta capacitación te llevas la certificación de Personal trainer, con orientación a Musculación.</p>
+                                                    </div>
+                                                    <div class="elemento principal col-sm-4">
+                                                            <img src="img/diploma.png" alt="logo-descripcion">
+                                                        <h3>¡¡Certificación oficial!!</h3>
+                                                        <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                                    </div>
+                                                    <div class="elemento secundario col-sm-3">
+                                                            <img src="img/mision.png" alt="logo-descripcion">
+                                                        <p>La misión de este instructorado es el objetivo es poder
+                                                        certificarlos para una Salida laboral en Gimnasios y/o
+                                                        Particulares.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="row justify-content-around">
+                                                    <div class="elemento secundario col-sm-5">
+                                                            <img src="img/video.png" alt="logo-descripcion">
+                                                        <p>Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</p>
+                                                    </div>
+                                                    <div class="elemento secundario col-sm-5">
+                                                        <img src="img/material bibliográfico.png" alt="logo-descripcion">
+                                                        <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <hr>
 
                                             <div class="cobros">
-                                                <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                                <ul class="lista-curso">
-                                                    <li>Precio de reserva: $3.500 (ARS) por mes.</li>
-                                                    <li>Precio final: $7.000 (ARS).</li>
-                                                    <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                                </ul>
+                                                <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                                
                                                 <div class="pago text-center" style="margin-top:1rem;">
                                                     <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
                                                     <br>

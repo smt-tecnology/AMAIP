@@ -59,41 +59,35 @@
                                                     </i>
                                                 </span>
                                             </p>
-                                            <p><strong>Días y horarios</strong>: martes de 15:30hs. a 16:30hs.</p>
+                                            <p><strong>Horarios</strong>: martes de 15:30hs. a 16:30hs.</p>
                                             <p><strong>Ubicación</strong>: Av. Cabildo 34, barrio de Belgrano, CABA.</p>
                                         </div>
 
                                         <hr>
-                                        
-                                        <div class="descripcion text-center">
-                                            <div class="row justify-content-around">
-                                                <div class="elemento secundario col-sm-3">
-                                                    <img src="img/lista-preguntas.png" alt="logo-descripcion">
-                                                    <p>Para las consultas, se pueden realizar en el momento de la clase o en un horario especificado en un instructivo, que se envía a los participantes del curso</p>
-                                                </div>
-                                                <div class="elemento principal col-sm-4">
-                                                    <img src="img/diploma.png" alt="logo-descripcion">
-                                                    <h3>¡¡Certificación oficial!!</h3>
-                                                    <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                                </div>
-                                                <div class="elemento secundario col-sm-3">
-                                                    <img src="img/mision.png" alt="logo-descripcion">
-                                                    <p>La misión de este instructorado es aprender de principio a fin el método pilates, todo el uso del equipamiento Reformer (camilla)</p>
-                                                </div>
+
+
+                                        <div class="cobros">
+                                            <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                            <ul class="lista-curso texto">
+                                                <li>Precio: $3.000 (ARS) por mes. No cobramos matrícula</li>
+                                                <li>Abonando el primer mes realizás tu reserva</li>
+                                                <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                                <li>Despues de concretar la reserva, descargue los instructivos para poder realizar el curso correctamente</li>
+                                            </ul>
+                                            <div class="pago text-center" style="margin-top:1rem;">
+                                                <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-4767a32b-3196-43a2-98a3-d9c645ad37c9">
+                                                    <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                                </a>
+                                                <br>
+                                                <!--
+                                                <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                                -->
                                             </div>
-                                            <div class="row justify-content-around">
-                                                <div class="elemento secundario col-sm-5">
-                                                    <img src="img/video.png" alt="logo-descripcion">
-                                                    <p>Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</p>
-                                                </div>
-                                                <div class="elemento secundario col-sm-5">
-                                                    <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                                    <p>También se te entregará un amplio repertorio de material bibliográfico.</p>
-                                                </div>
-                                            </div>
-                                        </div>                          
+                                        </div>
 
                                         <hr>
+                                        
+                                        
 
                                         <div class="temario">
                                             <h5 class="text-center"><strong>Temario del Curso</strong></h5>
@@ -129,7 +123,7 @@
                                         </div>
 
                                         <hr>
-
+                                        <!--
                                         <div class="cursadas">
                                             <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                             <div class="curso">
@@ -143,15 +137,45 @@
                                         </div>
 
                                         <hr>
+                                        -->
+
+
+
+
+                                        <div class="descripcion text-center">
+                                            <div class="row justify-content-around">
+                                                <div class="elemento secundario col-sm-3">
+                                                    <img src="img/lista-preguntas.png" alt="logo-descripcion">
+                                                    <p>Para las consultas, se pueden realizar en el momento de la clase o en un horario especificado en un instructivo, que se envía a los participantes del curso</p>
+                                                </div>
+                                                <div class="elemento principal col-sm-4">
+                                                    <img src="img/D-reformer.png" alt="logo-descripcion">
+                                                    <h3>¡¡Certificación oficial!!</h3>
+                                                    <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                                </div>
+                                                <div class="elemento secundario col-sm-3">
+                                                    <img src="img/mision.png" alt="logo-descripcion">
+                                                    <p>La misión de este instructorado es aprender de principio a fin el método pilates, todo el uso del equipamiento Reformer (camilla)</p>
+                                                </div>
+                                            </div>
+                                            <div class="row justify-content-around">
+                                                <div class="elemento secundario col-sm-5">
+                                                    <img src="img/video.png" alt="logo-descripcion">
+                                                    <p>Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</p>
+                                                </div>
+                                                <div class="elemento secundario col-sm-5">
+                                                    <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                                    <p>También se te entregará un amplio repertorio de material bibliográfico.</p>
+                                                </div>
+                                            </div>
+                                        </div>                          
+
+                                        <hr>
+
 
                                         <div class="cobros">
-                                            <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                            <ul class="lista-curso texto">
-                                                <li>Precio de reserva: $3.000 (ARS) por mes.</li>
-                                                <li>Precio final: $6.000 (ARS).</li>
-                                                <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                                <li>Despues de concretar la reserva, descargue los instructivos para poder realizar el curso correctamente</li>
-                                            </ul>
+                                            <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                            
                                             <div class="pago text-center" style="margin-top:1rem;">
                                                 <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-4767a32b-3196-43a2-98a3-d9c645ad37c9">
                                                     <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

@@ -57,28 +57,28 @@
                                                 </i>
                                             </span>
                                         </p>
-                                        <p><strong>Días y horarios</strong>: Sábado de 14:00hs. a 20:00hs. y Domingo de 10:00hs. a 14:00hs.</p>
+                                        <p><strong>Las fechas son</strong>: 28 y 29 de Marzo</p>
+                                        <p><strong>Horarios</strong>: Sábado de 14:00hs. a 20:00hs. y Domingo de 10:00hs. a 14:00hs.</p>
                                         <p><strong>Ubicación</strong>: Av. Cabildo 34, barrio de Belgrano, CABA.</p>
                                     </div>
 
                                     <hr>
-
-                                    <div class="descripcion text-center row justify-content-around">
-                                        <div class="elemento secundario col-sm-3">
-                                            <img src="img/mision.png" alt="logo-descripcion">
-                                            <p>La misión de este curso es brindarle las herramientas adecuadas a cada persona para que aprendan un nuevo método de entrenamiento que en la actualidad es un auge, esto les permitirá una nueva salida laboral de mucha demanda en el país.</p>
-                                        </div>
-                                        <div class="elemento principal col-sm-4">
-                                            <img src="img/diploma.png" alt="logo-descripcion">
-                                            <h3>¡¡Certificación oficial!!</h3>
-                                            <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                        </div>
-                                        <div class="elemento secundario col-sm-3"> 
-                                            <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                            <p>Este curso incluye aparte un amplio repertorio de material bibliográfico.</p>        
+                                    <div class="cobros">
+                                        <h5 class="text-center"><strong>Precio y pagos</strong></h5>
+                                        <ul class="lista-curso">
+                                            <li>Precio final: $2.500 (ARS). No cobramos matrícula</li>
+                                            <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                        </ul>
+                                        <div class="pago text-center" style="margin-top:1rem;">
+                                            <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-28c0bf05-74c9-4ba9-9871-f186da64084e">
+                                                <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                            </a>
+                                            <!--
+                                            <br>
+                                            <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                            -->
                                         </div>
                                     </div>
-
                                     <hr>
 
                                     <div class="temario">
@@ -160,7 +160,7 @@
                                     </div>
 
                                     <hr>
-
+<!--
                                     <div class="cursadas">
                                         <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                         <div class="curso">
@@ -172,13 +172,28 @@
                                     </div>
 
                                     <hr>
+-->
+                                    <div class="descripcion text-center row justify-content-around">
+                                        <div class="elemento secundario col-sm-3">
+                                            <img src="img/mision.png" alt="logo-descripcion">
+                                            <p>La misión de este curso es brindarle las herramientas adecuadas a cada persona para que aprendan un nuevo método de entrenamiento que en la actualidad es un auge, esto les permitirá una nueva salida laboral de mucha demanda en el país.</p>
+                                        </div>
+                                        <div class="elemento principal col-sm-4">
+                                            <img src="img/D-box.png" alt="logo-descripcion">
+                                            <h3>¡¡Certificación oficial!!</h3>
+                                            <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                        </div>
+                                        <div class="elemento secundario col-sm-3"> 
+                                            <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                            <p>Este curso incluye aparte un amplio repertorio de material bibliográfico.</p>        
+                                        </div>
+                                    </div>
+
+                                    <hr>
 
                                     <div class="cobros">
-                                        <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                        <ul class="lista-curso">
-                                            <li>Precio final: $2.500 (ARS).</li>
-                                            <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                        </ul>
+                                        <h5 class="text-center"><strong>HACE TU RESERVA</strong></h5>
+                                        
                                         <div class="pago text-center" style="margin-top:1rem;">
                                             <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-28c0bf05-74c9-4ba9-9871-f186da64084e">
                                                 <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

@@ -39,8 +39,8 @@
                             <div class="single-content">
                                 <!-- Background Image -->
                                 <div class="mnmd-block mnmd-block--fullwidth mnmd-block--contiguous single-billboard single-billboard--sm">
-                                    <div class="background-img background-img--scrim-bottom hidden-xs hidden-sm" style="background-image: url('img/reformer.jpg');"></div>
-                                    <div class="background-img hidden-md hidden-lg" style="background-image: url('img/reformer.jpg');"></div>
+                                    <div class="background-img background-img--scrim-bottom hidden-xs hidden-sm" style="background-image: url('img/personal22.jpg');"></div>
+                                    <div class="background-img hidden-md hidden-lg" style="background-image: url('img/personal22.jpg');"></div>
                                 </div>
                                 <!-- Descripción del Curso -->
                                 <header>
@@ -48,7 +48,7 @@
                                         <h1 class="entry-title entry-title--lg titulo text-center"><strong>Instructorado de Personal Trainer y Entrenamiento Funcional</strong></h1>
                                         <div class="entry-teaser entry-teaser--lg texto">
                                             <div class="info-principal text-center">
-                                                <p><strong>Cursada regular</strong>: 3 meses</p>
+                                                <p><strong>Cursada regular</strong>: 2 meses</p>
                                                 <p><strong>Modalidad</strong>: Presencial y online</p>
                                                 <p>
                                                     <strong>Disertante</strong>: Marcos Adrián Cortes <br>
@@ -59,54 +59,38 @@
                                                         </i>
                                                     </span>
                                                 </p>
-                                                <p><strong>Días y horarios</strong>: Sabados de 9hs. a 12hs.</p>
+                                                <p><strong>Las fechas exactas son</strong>: 7 de Marzo, 14 de Marzo, 28 de Marzo, 4 de Abril, 18 de Abril, 25 de Abril, 9 de Mayo y 16 de Mayo </p>
+                                                <p><strong>Horarios</strong>: Sabados de 9hs. a 12hs.</p>
                                                 <p><strong>Ubicación</strong>: Doblas 1356, Parque Chacabuco, CABA.</p>
                                             </div>
 
                                             <hr>
 
-                                            <div class="descripcion text-center">
-                                                <div class="row justify-content-around">
-                                                    <div class="elemento secundario col-sm-3">
-                                                        <img src="img/medal.png" alt="logo-descripcion">
-                                                        <p>En este curso, se fusionan la selección de teorías con una amplia
-                                                        experiencia y trayectoria por parte del grupo docente.</p>
-                                                    </div>
-                                                    <div class="elemento principal col-sm-4">
-                                                        <img src="img/diploma.png" alt="logo-descripcion">
-                                                        <h3>¡¡Certificación oficial!!</h3>
-                                                        <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                                    </div>
-                                                    <div class="elemento secundario col-sm-3">
-                                                            <img src="img/mision.png" alt="logo-descripcion">
-                                                        <p>Tenemos como meta, la formación de profesionales en el área de la
-                                                        Educación Física, con amplio conocimiento en planificación,
-                                                        ejecución y dictado de clases.</p>
-                                                    </div>
+                                            <div class="cobros">
+                                                <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                                <ul class="lista-curso">
+                                                    <li>Precio de reserva: $3.500 (ARS) por mes. No cobramos matrícula</li>
+                                                    <li>Abonando el primer mes realizás tu reserva</li>
+                                                    <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                                    <li>Despues de concretar la reserva, descargue los instructivos para poder realizar el curso correctamente</li>
+                                                </ul>
+                                                <div class="pago text-center" style="margin-top:1rem;">
+                                                    <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-b34f9c50-679e-446e-8d5f-54421429fca2">
+                                                        <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                                    </a>
+                                                    <br>
+                                                    <!--
+                                                    <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                                    -->
                                                 </div>
-                                                <div class="row justify-content-around">
-                                                    <div class="elemento secundario col-sm-5">
-                                                        <img src="img/classroom-people.png" alt="logo-descripcion">
-                                                        <p>Al finalizar el curso, estarán aptos para manejar los diferentes
-                                                        niveles de exigencia, con la capacidad de poder desarrollar clases
-                                                        individuales o en grupos, y desempeñarse como profesores en el área
-                                                        de Entrenador Personal.</p>
-                                                    </div>
-                                                    <div class="elemento secundario col-sm-5">
-                                                        <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                                        <p>El conocimiento adquirido, les permitirá diferenciarse y poder
-                                                        brindar un servicio óptimo e integral, reconociendo los diferentes
-                                                        escenarios posibles y generando un nivel de confianza, el cual las
-                                                        personas podrán reconocer rápidamente, gracias a los fundamentos y
-                                                        la veracidad de los conceptos.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
 
+                                            </div>
+                                            <br>
                                             <hr>
+                                            
 
                                             <div class="bloques-curso">
-                                                <h5 class="text-center"><strong>Bloques del curso</strong></h5>
+                                                <h5 class="text-center"><strong>Temario</strong></h5>
                                                 <div class="bloques">
                                                     <div class="bloque">
                                                         <div class="card bg-light mb-3" style="max-width: 18rem;">
@@ -279,34 +263,72 @@
                                                     </div>
                                                 </div>
                                                 <br>
+                                                <br>
                                                 <div class="text-center">
                                                     <strong><a href="instructivos/instructivos-personaltrainer.docx" download="instructivos/instructivos-personaltrainer.docx">DESCARGAR INSTRUCTIVO</a></strong>
                                                 </div>
                                             </div>
 
                                             <hr>
-
+                                            <!--
                                             <div class="cursadas">
                                                 <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                                 <div class="curso">
-                                                    <h6><strong><i>Marzo - Abril - Mayo</i></strong></h6>
+                                                    <h6><strong><i>Marzo - Abril</i></strong></h6>
                                                     <ul class="lista-curso">
-                                                        <li>Las clases comienzan el Sabado 7 de Marzo y finalizan el Sabado 9 de Mayo.</li> 
-                                                        <li>EL dia Sabado 11 de Abril y 2 de Mayo no se dictaran clases</li>
+                                                        <li>Las clases comienzan el Sabado 7 de Marzo y finalizan el Sabado 2 de Mayo.</li> 
+                                                        <li>EL dia Sabado 21 de Marzo</li>
                                                                                                                                     </ul>
                                                 </div>
                                             </div>
 
                                             <hr>
+                                            -->
+
+                                            <div class="descripcion text-center">
+                                                <div class="row justify-content-around">
+                                                    <div class="elemento secundario col-sm-3">
+                                                        <img src="img/medal.png" alt="logo-descripcion">
+                                                        <p>En este curso, se fusionan la selección de teorías con una amplia
+                                                        experiencia y trayectoria por parte del grupo docente.</p>
+                                                    </div>
+                                                    <div class="elemento principal col-sm-4">
+                                                        <img src="img/D-personalfuncional.png" alt="logo-descripcion">
+                                                        <h3>¡¡Certificación oficial!!</h3>
+                                                        <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                                    </div>
+                                                    <div class="elemento secundario col-sm-3">
+                                                            <img src="img/mision.png" alt="logo-descripcion">
+                                                        <p>Tenemos como meta, la formación de profesionales en el área de la
+                                                        Educación Física, con amplio conocimiento en planificación,
+                                                        ejecución y dictado de clases.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="row justify-content-around">
+                                                    <div class="elemento secundario col-sm-5">
+                                                        <img src="img/classroom-people.png" alt="logo-descripcion">
+                                                        <p>Al finalizar el curso, estarán aptos para manejar los diferentes
+                                                        niveles de exigencia, con la capacidad de poder desarrollar clases
+                                                        individuales o en grupos, y desempeñarse como profesores en el área
+                                                        de Entrenador Personal.</p>
+                                                    </div>
+                                                    <div class="elemento secundario col-sm-5">
+                                                        <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                                        <p>El conocimiento adquirido, les permitirá diferenciarse y poder
+                                                        brindar un servicio óptimo e integral, reconociendo los diferentes
+                                                        escenarios posibles y generando un nivel de confianza, el cual las
+                                                        personas podrán reconocer rápidamente, gracias a los fundamentos y
+                                                        la veracidad de los conceptos.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <hr>
+
 
                                             <div class="cobros">
-                                                <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                                <ul class="lista-curso">
-                                                    <li>Precio de reserva: $2.800 (ARS) por mes.</li>
-                                                    <li>Precio final: $8.400 (ARS).</li>
-                                                    <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                                    <li>Despues de concretar la reserva, descargue los instructivos para poder realizar el curso correctamente</li>
-                                                </ul>
+                                                <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                                
                                                 <div class="pago text-center" style="margin-top:1rem;">
                                                     <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-b34f9c50-679e-446e-8d5f-54421429fca2">
                                                         <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

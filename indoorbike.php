@@ -58,28 +58,30 @@
                                                 </i>
                                             </span>
                                         </p>
-                                        <p><strong>Días y horarios</strong>: Sábado de 14hs. a 20hs. y Domingo de 10hs. a 14hs.</p>
+                                        <p><strong>Las fechas son</strong>: 14 y 15 de Marzo</p>
+                                        <p><strong>Horarios</strong>: Sábado de 14hs. a 20hs. y Domingo de 10hs. a 14hs.</p>
                                         <p><strong>Ubicación:</strong> Av. Cabildo 34, barrio de Belgrano, CABA.</p>
                                     </div>
 
                                     <hr>
-                                    <div class="descripcion text-center">
-                                        <div class="row justify-content-around">
-                                            <div class="elemento secundario col-sm-3">
-                                                <img src="img/diploma-scroll.png" alt="logo-descripcion">
-                                                <p>En esta capacitación te llevas la certificación como instructor/a de Indoor bike.</p>
-                                            </div>
-                                            <div class="elemento principal col-sm-4">
-                                                <img src="img/diploma.png" alt="logo-descripcion">
-                                                <h3>¡¡Certificación oficial!!</h3>
-                                                <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                            </div>
-                                            <div class="elemento secundario col-sm-3">
-                                                <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                                <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
-                                            </div>
-                                        </div>  
+                                    
+                                    <div class="cobros">
+                                        <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                        <ul class="lista-curso">                                                
+                                            <li>Precio final: $2800 (ARS). No cobramos matrícula</li>
+                                            <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                        </ul>
+                                        <div class="pago text-center" style="margin-top:1rem;">
+                                            <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-dd725004-9b79-4d2b-a119-02a1d073edaa">
+                                                <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                            </a>
+                                            <br>
+                                            <!--
+                                            <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                            -->
+                                        </div>
                                     </div>
+
                                     <hr>
 
                                     <div class="temario">
@@ -129,6 +131,7 @@
 
                                     <hr>
 
+                                    <!--
                                     <div class="cursadas">
                                         <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                         <div class="curso">
@@ -140,13 +143,30 @@
                                     </div>
 
                                     <hr>
+                                    -->
+
+                                    <div class="descripcion text-center">
+                                        <div class="row justify-content-around">
+                                            <div class="elemento secundario col-sm-3">
+                                                <img src="img/diploma-scroll.png" alt="logo-descripcion">
+                                                <p>En esta capacitación te llevas la certificación como instructor/a de Indoor bike.</p>
+                                            </div>
+                                            <div class="elemento principal col-sm-4">
+                                                <img src="img/D-indoor.png" alt="logo-descripcion">
+                                                <h3>¡¡Certificación oficial!!</h3>
+                                                <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                            </div>
+                                            <div class="elemento secundario col-sm-3">
+                                                <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                                <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
+                                            </div>
+                                        </div>  
+                                    </div>
+                                    <hr>
 
                                     <div class="cobros">
-                                        <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                        <ul class="lista-curso">                                                
-                                            <li>Precio final: $2800 (ARS).</li>
-                                            <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                        </ul>
+                                        <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                        
                                         <div class="pago text-center" style="margin-top:1rem;">
                                             <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-dd725004-9b79-4d2b-a119-02a1d073edaa">
                                                 <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

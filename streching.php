@@ -39,8 +39,8 @@
                         <div class="single-content">
                             <!-- Background Image -->
                             <div class="mnmd-block mnmd-block--fullwidth mnmd-block--contiguous single-billboard single-billboard--sm">
-                                <div class="background-img background-img--scrim-bottom hidden-xs hidden-sm" style="background-image: url('img/indoorbike2.jpg');"></div>
-                                <div class="background-img hidden-md hidden-lg" style="background-image: url('img/indoorbike2.jpg');"></div>
+                                <div class="background-img background-img--scrim-bottom hidden-xs hidden-sm" style="background-image: url('img/entrenamiento.jpg');"></div>
+                                <div class="background-img hidden-md hidden-lg" style="background-image: url('img/entrenamiento.jpg');"></div>
                             </div>
                             <!-- Descripción del Curso -->
                             <header>
@@ -57,28 +57,28 @@
                                                 </i>
                                             </span>
                                         </p>
-                                        <p><strong>Días y horarios</strong>: Sábado de 14hs. a 20hs. y Domingo de 10hs. a 13hs.</p>
+                                        <p><strong>Fechas</strong>: 4 y 5 de Abril</p>
+                                        <p><strong>Horarios</strong>: Sábado de 14hs. a 20hs. y Domingo de 10hs. a 13hs.</p>
                                         <p><strong>Ubicación:</strong> Av. Cabildo 34, barrio de Belgrano, CABA.</p>
                                     </div>
 
                                     <hr>
 
-                                    <div class="descripcion text-center">
-                                        <div class="row justify-content-around">
-                                            <div class="elemento secundario col-sm-3">
-                                                <img src="img/diploma-scroll.png" alt="logo-descripcion">
-                                                <p>En esta capacitación te llevas la certificación en Pilates Reformer.</p>
-                                            </div>
-                                            <div class="elemento principal col-sm-4">
-                                                <img src="img/diploma.png" alt="logo-descripcion">
-                                                <h3>¡¡Certificación oficial!!</h3>
-                                                <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                            </div>
-                                            <div class="elemento secundario col-sm-3">
-                                                <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                                <p>También se te entregará un amplio repertorio de material bibliográfico.</p>
-                                            </div>
-                                        </div>  
+                                   <div class="cobros">
+                                        <h5 class="text-center"><strong>Precio y pagos</strong></h5>
+                                        <ul class="lista-curso">                                                
+                                            <li>Precio final: $2500 (ARS). No cobramos matrícula</li>
+                                            <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                        </ul>
+                                        <div class="pago text-center" style="margin-top:1rem;">
+                                            <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-fb4a5f53-8d3d-476e-af46-e1cb6dd80eed">
+                                                <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                            </a>
+                                            <br>
+                                            <!--
+                                            <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                            -->
+                                        </div>
                                     </div>
 
                                     <hr>
@@ -187,7 +187,7 @@
                                     </div>
 
                                     <hr>
-
+                                    <!--
                                     <div class="cursadas">
                                         <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                         <div class="curso">
@@ -199,13 +199,31 @@
                                     </div>
 
                                     <hr>
+                                    -->
+
+                                    <div class="descripcion text-center">
+                                        <div class="row justify-content-around">
+                                            <div class="elemento secundario col-sm-3">
+                                                <img src="img/diploma-scroll.png" alt="logo-descripcion">
+                                                <p>En esta capacitación te llevas la certificación en Streching.</p>
+                                            </div>
+                                            <div class="elemento principal col-sm-4">
+                                                <img src="img/D-streching.png" alt="logo-descripcion">
+                                                <h3>¡¡Certificación oficial!!</h3>
+                                                <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                            </div>
+                                            <div class="elemento secundario col-sm-3">
+                                                <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                                <p>También se te entregará un amplio repertorio de material bibliográfico.</p>
+                                            </div>
+                                        </div>  
+                                    </div>
+
+                                    <hr>
 
                                     <div class="cobros">
-                                        <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                        <ul class="lista-curso">                                                
-                                            <li>Precio final: $2500 (ARS).</li>
-                                            <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                        </ul>
+                                        <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                        
                                         <div class="pago text-center" style="margin-top:1rem;">
                                             <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-fb4a5f53-8d3d-476e-af46-e1cb6dd80eed">
                                                 <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

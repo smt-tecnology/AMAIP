@@ -59,27 +59,27 @@
                                                     </i>
                                                 </span>
                                             </p>
-                                            <p><strong>Días y horarios</strong>: Sábado de 14hs. a 20hs. y Domingo de 10hs. a 14hs.</p>
+                                            <p><strong>Las fechas son</strong>: 18 y 19 de Abril </p>
+                                            <p><strong>Horarios</strong>: Sábado de 14hs. a 20hs. y Domingo de 10hs. a 14hs.</p>
                                             <p><strong>Ubicación:</strong> Av. Cabildo 34, barrio de Belgrano, CABA.</p>
                                         </div>
 
                                         <hr>
 
-                                        <div class="descripcion text-center">
-                                            <div class="row justify-content-around">
-                                                <div class="elemento secundario col-sm-3">
-                                                    <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                                    <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
-                                                </div>
-                                                <div class="elemento principal col-sm-4">
-                                                    <img src="img/diploma.png" alt="logo-descripcion">
-                                                    <h3>¡¡Certificación oficial!!</h3>
-                                                    <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                                </div>
-                                                <div class="elemento secundario col-sm-3">
-                                                    <img src="img/mision.png" alt="logo-descripcion">
-                                                    <p>La misión de este instructorado es aprender de principio a fin el método pilates, todo el uso del equipamiento Reformer (camilla)</p>
-                                                </div>
+                                         <div class="cobros">
+                                            <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                            <ul class="lista-curso texto">
+                                                <li>Precio final: $2800 (ARS). No cobramos matrícula</li>
+                                                <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                            </ul>
+                                            <div class="pago text-center" style="margin-top:1rem;">
+                                                <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-a2c86e30-07c0-4be8-89b8-730aaed4785d">
+                                                    <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                                </a>
+                                                <br>
+                                                <!--
+                                                <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                                -->
                                             </div>
                                         </div>
 
@@ -193,7 +193,7 @@
                                         </div>
 
                                         <hr>
-
+                                        <!--
                                         <div class="cursadas">
                                             <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                             <div class="curso">
@@ -203,15 +203,33 @@
                                                 </ul>
                                             </div>
                                         </div>
+                                        
+
+                                        <hr>
+                                        -->
+                                        <div class="descripcion text-center">
+                                            <div class="row justify-content-around">
+                                                <div class="elemento secundario col-sm-3">
+                                                    <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                                    <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
+                                                </div>
+                                                <div class="elemento principal col-sm-4">
+                                                    <img src="img/D-reformer.png" alt="logo-descripcion">
+                                                    <h3>¡¡Certificación oficial!!</h3>
+                                                    <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                                </div>
+                                                <div class="elemento secundario col-sm-3">
+                                                    <img src="img/mision.png" alt="logo-descripcion">
+                                                    <p>La misión de este instructorado es aprender de principio a fin el método pilates, todo el uso del equipamiento Reformer (camilla)</p>
+                                                </div>
+                                            </div>
+                                        </div>
 
                                         <hr>
 
                                         <div class="cobros">
-                                            <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                            <ul class="lista-curso texto">
-                                                <li>Precio final: $2800 (ARS).</li>
-                                                <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                            </ul>
+                                            <h5 class="text-center"><strong>HACE TU RESERVA</strong></h5>
+                                            
                                             <div class="pago text-center" style="margin-top:1rem;">
                                                 <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-a2c86e30-07c0-4be8-89b8-730aaed4785d">
                                                     <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

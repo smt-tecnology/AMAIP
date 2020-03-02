@@ -4,15 +4,15 @@
 /* Fix Navbar */
 
 .mnmd-offcanvas-backdrop {
-    z-index: 1!important;
+    z-index: 1 !important;
 }
 
 
 /* Botón de Pago */
 
 .pago img {
-    border: none!important;
-    height: 7rem!important;
+    border: none !important;
+    height: 7rem !important;
 }
 
 .boton-mercadopago {
@@ -52,7 +52,7 @@
 
 .titulo-nosotros {
     text-align: center;
-    font-size: 3.0em!important;
+    font-size: 3.0em !important;
 }
 
 .subtitulo {
@@ -87,7 +87,7 @@
 }
 
 .titulo-nosotros {
-    font-family: 'Raleway'!important;
+    font-family: 'Raleway' !important;
     font-weight: 700;
 }
 
@@ -224,7 +224,7 @@ div.secundario img {
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 740px) {
     .bloques-yoga,
     .bloques {
         grid-template-columns: repeat(2, 1fr);

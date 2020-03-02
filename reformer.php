@@ -48,7 +48,7 @@
                                         <h1 class="entry-title entry-title--lg titulo text-center"><strong>Instructorado Pilates Reformer y Mat</strong></h1>
                                         <div class="entry-teaser entry-teaser--lg texto">
                                             <div class="info-principal text-center">
-                                                <p><strong>Cursada regular</strong>: 2 meses</p>
+                                                <p><strong>Cursada regular</strong>: 3 meses</p>
                                                 <p><strong>Modalidad</strong>: Presencial</p>
                                                 <p>
                                                     <strong>Disertante</strong>: Javier Piana <br>
@@ -60,44 +60,34 @@
                                                         </i>
                                                     </span>
                                                 </p>
-                                                <p><strong>Días y horarios</strong>: Sábados de 9:30hs. a 12:30hs.</p>
+                                            
+                                                <p><strong>Las fechas exactas son</strong>: 9 de mayo, 16 de mayo, 30 de mayo, 6 de junio, 13 de junio, 27 de junio, 4 de julio, 18 de julio, 25 de julio  </p>
+                                                <p><strong>Horario</strong>: Sábados de 9:30hs. a 12:30hs.</p>
                                                 <p><strong>Ubicación</strong>: Av. Cabildo 34, barrio de Belgrano, CABA.</p>
                                             </div>
 
                                             <hr>
 
-                                            <div class="descripcion text-center">
-                                                <div class="row justify-content-around">
-                                                    <div class="elemento secundario col-sm-3">
-                                                            <img src="img/3 niveles.png" alt="logo-descripcion">
-                                                        <p>Cuenta con 3 niveles.</p>
-                                                    </div>
-                                                    <div class="elemento principal col-sm-4">
-                                                            <img src="img/diploma.png" alt="logo-descripcion">
-                                                        <h3>¡¡Certificación oficial!!</h3>
-                                                        <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                                    </div>
-                                                    <div class="elemento secundario col-sm-3">
-                                                            <img src="img/mision.png" alt="logo-descripcion">
-                                                        <p>La misión de este instructorado es aprender de principio a fin el método pilates, todo el uso del equipamiento Reformer (camilla) y Mat (suelo)</p>
-                                                    </div>
-                                                </div>
-                                                <div class="row justify-content-around">
-                                                    <div class="elemento secundario col-sm-5">
-                                                            <img src="img/video.png" alt="logo-descripcion">
-                                                        <p>Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</p>
-                                                    </div>
-                                                    <div class="elemento secundario col-sm-5">
-                                                        <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                                        <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
-                                                    </div>
+                                            <div class="cobros">
+                                                <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                                <ul class="lista-curso">
+                                                    <li>Precio de reserva: $2.800 (ARS) por mes. No cobramos matrícula</li>
+                                                    <li>Abonando el primer mes realizás tu reserva</li>
+                                                    <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                                </ul>
+                                                <div class="pago text-center" style="margin-top:1rem;">
+                                                    <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-a2c86e30-07c0-4be8-89b8-730aaed4785d">
+                                                        <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                                    </a>
+                                                    <br>
+                                                    <!--
+                                                    <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                                    -->
                                                 </div>
                                             </div>
-
                                             <hr>
-
                                             <div class="bloques-curso">
-                                                <h5 class="text-center"><strong>Bloques del curso</strong></h5>
+                                                <h5 class="text-center"><strong>Temario</strong></h5>
                                                 <div class="bloques">
                                                     <div class="bloque">
                                                         <div class="card bg-light mb-3" style="max-width: 18rem;">
@@ -203,7 +193,7 @@
                                             </div>
 
                                             <hr>
-
+                                            <!--
                                             <div class="cursadas">
                                                 <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                                 <div class="curso">
@@ -217,14 +207,40 @@
                                             </div>
 
                                             <hr>
+                                            -->
+                                            <div class="descripcion text-center">
+                                                <div class="row justify-content-around">
+                                                    <div class="elemento secundario col-sm-3">
+                                                            <img src="img/3 niveles.png" alt="logo-descripcion">
+                                                        <p>Cuenta con 3 niveles.</p>
+                                                    </div>
+                                                    <div class="elemento principal col-sm-4">
+                                                            <img src="img\D-reformermat.png" alt="logo-descripcion">
+                                                        <h3>¡¡Certificación oficial!!</h3>
+                                                        <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                                    </div>
+                                                    <div class="elemento secundario col-sm-3">
+                                                            <img src="img/mision.png" alt="logo-descripcion">
+                                                        <p>La misión de este instructorado es aprender de principio a fin el método pilates, todo el uso del equipamiento Reformer (camilla) y Mat (suelo)</p>
+                                                    </div>
+                                                </div>
+                                                <div class="row justify-content-around">
+                                                    <div class="elemento secundario col-sm-5">
+                                                            <img src="img/video.png" alt="logo-descripcion">
+                                                        <p>Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</p>
+                                                    </div>
+                                                    <div class="elemento secundario col-sm-5">
+                                                        <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                                        <p>También se te entregará un amplio repertorio de material bibliográfico..</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <hr>
 
                                             <div class="cobros">
-                                                <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                                <ul class="lista-curso">
-                                                    <li>Precio de reserva: $2.800 (ARS) por mes.</li>
-                                                    <li>Precio final: $8.400 (ARS).</li>
-                                                    <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                                </ul>
+                                                <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                                
                                                 <div class="pago text-center" style="margin-top:1rem;">
                                                     <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-a2c86e30-07c0-4be8-89b8-730aaed4785d">
                                                         <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

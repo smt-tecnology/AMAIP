@@ -57,9 +57,31 @@
                                             </i>
                                         </span>
                                     </p> 
-                                    <p><strong>Certificación oficial</strong>: Convenio de AMAIP con la Federación Argentina de Cardiología.</p>                                   
-                                    <p><strong>Días y horarios</strong>: Sabado 18 de Abril de 18:00hs a 20:00 hs</p>
+                                    <p><strong>Certificación oficial</strong>: Convenio de AMAIP con la Federación Argentina de Cardiología.</p>   
+                                    <p><strong>Fecha</strong>: 18 de Abril</p>                                
+                                    <p><strong>Horarios</strong>: Sabado de 18:00hs a 20:00 hs</p>
                                     <p><strong>Ubicación:</strong> Doblas 1356,Parque Chacabuco.</p>
+                                </div>
+
+                                <hr>
+
+                                <div class="cobros">
+                                    <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                    <ul class="lista-curso"> 
+                                        <li>Precio final: $1000 (ARS).</li>
+                                        
+                                        <li>Puedes Participar <strong>sin cargo</strong> de este curso , si realizas alguna de las proximas capacitaciones,intensivas o regulares, de nuestra escuela</li>
+                                        <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                    </ul>
+                                    <div class="pago text-center" style="margin-top:1rem;">
+                                        <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-e4108db7-d4c1-4f34-93dd-1edfd82cbfc5">
+                                        <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                    </a>
+                                        <br>
+                                        <!--
+                                        <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                        -->
+                                    </div>
                                 </div>
 
                                 <hr>
@@ -112,7 +134,7 @@
                                 </div>
 
                                 <hr>
-
+                                <!--
                                 <div class="cursadas">
                                     <h5 class="text-center"><strong>Próximo Curso</strong></h5>
                                     <div class="curso">
@@ -122,17 +144,12 @@
                                         </ul>
                                     </div>                                 
                                 </div>
-
                                 <hr>
+                                -->
 
                                 <div class="cobros">
-                                    <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                    <ul class="lista-curso"> 
-                                        <li>Precio final: $1000 (ARS).</li>
-                                        <li>Para poder realizar la reserva, realizar un adelanto del 50% del precio total correspondiente. </li>
-                                        <li>Puedes Participar <strong>sin cargo</strong> de este curso , si realizas alguna de las proximas capacitaciones,intensivas o regulares, de nuestra escuela</li>
-                                        <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                    </ul>
+                                    <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                    
                                     <div class="pago text-center" style="margin-top:1rem;">
                                         <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-e4108db7-d4c1-4f34-93dd-1edfd82cbfc5">
                                         <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

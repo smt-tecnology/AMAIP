@@ -74,56 +74,52 @@
                                                 </span>
 
                                             </p>
+                                            
+                                            <p><strong>Las fechas exactas son</strong>:4 de Abril | 18 de Abril | 9 de Mayo | 30 de Mayo | 6 de Junio | 13 de Junio</p>
+                                            <p><strong>Horario</strong>: Sábados de 12hs. a 15hs.</p>
+                                            <p><strong>Ubicación</strong>: Gualeguaychú, Provincia de Entre Rios. En la calle Luis N Palma 127, Gimnasio “Área Fitness”.</p>
+                                        </div>
+                                        
+                                        <hr>
+                                        <!--
+                                        <div class="cursadas container container--narrow">
+                                            <h5 class="text-center"><strong>Próximo Curso</strong></h5>
+                                            <div class="curso">
+                                                <h6><strong><i>Abril - Mayo - Junio</i></strong></h6>
+                                                <ul class="lista-curso">
+                                                    <li>Las fechas exactas en que se realiza el próximo instructorado son: 4 de Abril | 18 de Abril | 9 de Mayo | 30 de Mayo | 6 de Junio | 13 de Junio</li>                                                                   
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        -->
+                                        <hr>
 
-                                            <p><strong>Días y horarios</strong>: Sábados de 9hs. a 12hs.</p>
-                                            <p><strong>Ubicación</strong>: La Falda, Provincia de Córdoba. En la calle Luis N Palma 127, Gimnasio “Área Fitness”.</p>
+                                        <div class="cobros container container--narrow">
+                                            <h5 class="text-center"><strong>Precios y pagos</strong></h5>
+                                            <ul class="lista-curso">
+                                                <li>Precio de reserva: $2.100 (ARS) por mes.</li>
+                                                <li>Abonando el primer mes realizás tu reserva</li>
+                                                <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
+                                            </ul>
+                                            <div class="pago text-center" style="margin-top:1rem;">
+                                                <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-f3cbe4e5-03eb-407b-89d9-de357db57c17">
+                                                    <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>
+                                                </a>
+                                                <br>
+                                                <!--
+                                                <img src="img/mercadopago_opciones.png" alt="Opciones de Pago" width="285px">
+                                                -->
+                                            </div>
                                         </div>
 
+
+
                                         <hr>
 
-                                        <div class="descripcion text-center">
-                                                <div class="row justify-content-around">
-                                                    <div class="elemento secundario col-sm-3">
-                                                        <img src="img/medal.png" alt="logo-descripcion">
-                                                        <p>En este curso, se fusionan la selección de teorías con una amplia
-                                                        experiencia y trayectoria por parte del grupo docente.</p>
-                                                    </div>
-                                                    <div class="elemento principal col-sm-4">
-                                                        <img src="img/diploma.png" alt="logo-descripcion">
-                                                        <h3>¡¡Certificación oficial!!</h3>
-                                                        <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado por INAES (Matricula Cf 2865).</p>
-                                                    </div>
-                                                    <div class="elemento secundario col-sm-3">
-                                                            <img src="img/mision.png" alt="logo-descripcion">
-                                                        <p>Tenemos como meta, la formación de profesionales en el área de la
-                                                        Educación Física, con amplio conocimiento en planificación,
-                                                        ejecución y dictado de clases.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="row justify-content-around">
-                                                    <div class="elemento secundario col-sm-5">
-                                                        <img src="img/classroom-people.png" alt="logo-descripcion">
-                                                        <p>Al finalizar el curso, estarán aptos para manejar los diferentes
-                                                        niveles de exigencia, con la capacidad de poder desarrollar clases
-                                                        individuales o en grupos, y desempeñarse como profesores en el área
-                                                        de Entrenador Personal.</p>
-                                                    </div>
-                                                    <div class="elemento secundario col-sm-5">
-                                                        <img src="img/material_bibliografico.png" alt="logo-descripcion">
-                                                        <p>El conocimiento adquirido, les permitirá diferenciarse y poder
-                                                        brindar un servicio óptimo e integral, reconociendo los diferentes
-                                                        escenarios posibles y generando un nivel de confianza, el cual las
-                                                        personas podrán reconocer rápidamente, gracias a los fundamentos y
-                                                        la veracidad de los conceptos.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
                                         
-                                        
-                                        <hr>
 
                                         <div class="bloques-curso container container--narrow">
-                                            <h5 class="text-center"><strong>Bloques del curso</strong></h5>
+                                            <h5 class="text-center"><strong>Temario</strong></h5>
                                             <div class="bloques-yoga">
                                                 <div class="bloque">
                                                     <div class="card bg-light mb-3" >
@@ -239,7 +235,7 @@
                                                 
                                             </div>
                                         </div>
-
+                                        <!--
                                         <hr>
                                         <div class="cursadas container container--narrow">
                                             <h5 class="text-center"><strong>Próximo Curso</strong></h5>
@@ -250,16 +246,52 @@
                                                 </ul>
                                             </div>
                                         </div>
-
+                                        -->
                                         <hr>
 
+                                        <div class="descripcion text-center">
+                                                <div class="row justify-content-around">
+                                                    <div class="elemento secundario col-sm-3">
+                                                        <img src="img/medal.png" alt="logo-descripcion">
+                                                        <p>En este curso, se fusionan la selección de teorías con una amplia
+                                                        experiencia y trayectoria por parte del grupo docente.</p>
+                                                    </div>
+                                                    <div class="elemento principal col-sm-4">
+                                                        <img src="img\D-personalfuncional.png" alt="logo-descripcion">
+                                                        <h3>¡¡Certificación oficial!!</h3>
+                                                        <p>(Único en el Mercado) Oficial con reglamento de Educación Aprobado (Matricula Cf 2865).</p>
+                                                    </div>
+                                                    <div class="elemento secundario col-sm-3">
+                                                            <img src="img/mision.png" alt="logo-descripcion">
+                                                        <p>Tenemos como meta, la formación de profesionales en el área de la
+                                                        Educación Física, con amplio conocimiento en planificación,
+                                                        ejecución y dictado de clases.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="row justify-content-around">
+                                                    <div class="elemento secundario col-sm-5">
+                                                        <img src="img/classroom-people.png" alt="logo-descripcion">
+                                                        <p>Al finalizar el curso, estarán aptos para manejar los diferentes
+                                                        niveles de exigencia, con la capacidad de poder desarrollar clases
+                                                        individuales o en grupos, y desempeñarse como profesores en el área
+                                                        de Entrenador Personal.</p>
+                                                    </div>
+                                                    <div class="elemento secundario col-sm-5">
+                                                        <img src="img/material_bibliografico.png" alt="logo-descripcion">
+                                                        <p>El conocimiento adquirido, les permitirá diferenciarse y poder
+                                                        brindar un servicio óptimo e integral, reconociendo los diferentes
+                                                        escenarios posibles y generando un nivel de confianza, el cual las
+                                                        personas podrán reconocer rápidamente, gracias a los fundamentos y
+                                                        la veracidad de los conceptos.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        
+                                        
+                                        <hr>
                                         <div class="cobros container container--narrow">
-                                            <h5 class="text-center"><strong>Precios y pagos</strong></h5>
-                                            <ul class="lista-curso">
-                                                <li>Precio de reserva: $2.500 (ARS) por mes.</li>
-                                                <li>Precio final: $7.500 (ARS).</li>
-                                                <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
-                                            </ul>
+                                            <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
+                                            
                                             <div class="pago text-center" style="margin-top:1rem;">
                                                 <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=273670865-f3cbe4e5-03eb-407b-89d9-de357db57c17">
                                                     <button id="comprar_mercadopago" class="boton boton-mercadopago">PAGAR</button>

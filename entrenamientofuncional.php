@@ -10,31 +10,7 @@
             <!-- Contenido del Sitio -->
             <div class="site-content single-entry single-entry--no-sidebar">
                 <div class="mnmd-block mnmd-block--fullwidth mnmd-block--contiguous single-entry-wrap">
-                    <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5" itemscope itemtype="http://schema.org/Article">
-                        <!-- Schema meta -->
-                        <div class="page-schema-meta">
-                            <link itemprop="mainEntityOfPage" href="#single-url" />
-                            <meta itemprop="headline" content="Nintendo is reportedly bringing Zelda to your phone this year">
-                            <meta itemprop="datePublished" content="2017-02-10">
-                            <meta itemprop="dateModified" content="2017-02-10">
-                            <meta itemprop="commentCount" content="24" />
-                            <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="url" content="#image-url" />
-                                <meta itemprop="width" content="1000" />
-                                <meta itemprop="height" content="563" />
-                            </div>
-                            <div itemscope itemprop="author" itemtype="http://schema.org/Person">
-                                <meta itemprop="name" content="Ryan Reynold">
-                            </div>
-                            <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-                                <meta itemprop="name" content="The Next Mag">
-                                <div class="hidden" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="url" content="#logo-url" />
-                                    <meta itemprop="width" content="200" />
-                                    <meta itemprop="height" content="70" />
-                                </div>
-                            </div>
-                        </div>
+                    <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5">
                         <!-- Contenido -->
                         <div class="single-content">
                             <!-- Background Image -->
@@ -241,5 +217,69 @@
             <!-- Footer -->
             <?php include('templates/footer.php'); ?>
         </div>
+        <!-- Schema del Sitio -->
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                "@type": "schema:Course",
+                "name": "CURSO DE ENTRENAMIENTO FUNCIONAL",
+                "description": "Al finalizar el curso, estarán aptos para manejar los diferentes niveles de exigencia, con la capacidad de poder desarrollar clases individuales o en grupos, y desempeñarse como profesores.",
+                "educationalCredentialAwarded": "Instructor de Entrenamiento Funcional",
+                "occupationalCredentialAwarded": "Instructor de Entrenamiento Funcional",
+                "hasCourseInstance": {
+                    "@type": "CourseInstance",
+                    "name": "CURSO DE ENTRENAMIENTO FUNCIONAL",
+                    "description": "Esta es una cursada intensiva de dos días (sábado y domingo durante todo el día).",
+                    "image": "https://amaip.com.ar/img/amaip.jpg",
+                    "courseMode": ["Presencial", "Intensivo"],
+                    "courseWorkload": "Sábados de 14hrs. a 20hrs. y Domingos de 10hrs. a 14hrs.",
+                    "instructor": {
+                        "@type": "Person",
+                        "givenName": "Marcos Adrián",
+                        "familyName": "Cortes",
+                        "description": "Lic. Educación Física – Preparador Físico Policía de la Ciudad",
+                        "nationality": {
+                            "@type": "Country",
+                            "name": "Argentina"
+                        },
+                        "affiliation": {
+                            "@type": "Organization",
+                            "name": "AMAIP",
+                            "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                        },
+                        "worksFor": {
+                            "@type": "Organization",
+                            "name": "AMAIP",
+                            "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                        }
+                    },
+                    "location": {
+                        "@type": "Place",
+                        "name": "Sede Belgrano, CABA",
+                        "address": "Av. Cabildo 34, barrio de Belgrano, CABA."
+                    },
+                    "performer": {
+                        "@type": "Organization",
+                        "name": "AMAIP",
+                        "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                    },
+                    "offers": {
+                        "@type": "Offer",
+                        "url": "https://amaip.com.ar/entrenamientofuncional.php",
+                        "availability": "https://amaip.com.ar/entrenamientofuncional.php",
+                        "price": "2800.0",
+                        "priceCurrency": "ARS",
+                        "validFrom": "2020-01-01"
+                    },
+                    "endDate": "2020-04-19",
+                    "startDate": "2020-04-18"
+                },
+                "provider": {
+                    "@type": "Organization",
+                    "name": "AMAIP",
+                    "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                }
+            }
+        </script>
     </body>
 </html>

@@ -10,31 +10,7 @@
                 <!-- Contenido del Sitio -->
                 <div class="site-content single-entry single-entry--no-sidebar">
                     <div class="mnmd-block mnmd-block--fullwidth mnmd-block--contiguous single-entry-wrap">
-                        <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5" itemscope itemtype="http://schema.org/Article">
-                            <!-- Schema meta -->
-                            <div class="page-schema-meta">
-                                <link itemprop="mainEntityOfPage" href="#single-url" />
-                                <meta itemprop="headline" content="Nintendo is reportedly bringing Zelda to your phone this year">
-                                <meta itemprop="datePublished" content="2017-02-10">
-                                <meta itemprop="dateModified" content="2017-02-10">
-                                <meta itemprop="commentCount" content="24" />
-                                <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="url" content="#image-url" />
-                                    <meta itemprop="width" content="1000" />
-                                    <meta itemprop="height" content="563" />
-                                </div>
-                                <div itemscope itemprop="author" itemtype="http://schema.org/Person">
-                                    <meta itemprop="name" content="Ryan Reynold">
-                                </div>
-                                <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-                                    <meta itemprop="name" content="The Next Mag">
-                                    <div class="hidden" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-                                        <meta itemprop="url" content="#logo-url" />
-                                        <meta itemprop="width" content="200" />
-                                        <meta itemprop="height" content="70" />
-                                    </div>
-                                </div>
-                            </div>
+                        <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5">
                             <!-- Contenido -->
                             <div class="single-content">
                                 <!-- Background Image -->
@@ -71,7 +47,7 @@
                                             <div class="cobros">
                                                 <h5 class="text-center"><strong>Precios y pagos</strong></h5>
                                                 <ul class="lista-curso">
-                                                    <li>Precio de reserva: $2.800 (ARS) por mes. No cobramos matrícula</li>
+                                                    <li>Precio: $2.800 (ARS) por mes. No cobramos matrícula</li>
                                                     <li>Abonando el primer mes realizás tu reserva</li>
                                                     <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
                                                 </ul>
@@ -262,5 +238,69 @@
                 <!-- Footer -->
                 <?php include('templates/footer.php'); ?>
             </div>
+            <!-- Schema del Sitio -->
+            <script type="application/ld+json">
+                {
+                    "@context": "http://schema.org/",
+                    "@type": "schema:Course",
+                    "name": "CURSO DE PILATES REFORMER Y MAT",
+                    "description": "Al finalizar el curso, estarán aptos para manejar los diferentes niveles de exigencia, con la capacidad de poder desarrollar clases individuales o en grupos, y desempeñarse como profesores.",
+                    "educationalCredentialAwarded": "Instructor de Pilates Reformer y Mat",
+                    "occupationalCredentialAwarded": "Instructor de Pilates Reformer y Mat",
+                    "hasCourseInstance": {
+                        "@type": "CourseInstance",
+                        "name": "CURSO DE PILATES REFORMER Y MAT",
+                        "description": "Esta es una cursada de tres meses (del 9 de Mayo al 25 de Julio).",
+                        "image": "https://amaip.com.ar/img/reformer.jpg",
+                        "courseMode": ["Presencial", "Regular"],
+                        "courseWorkload": "Sábados de 09:30hrs. a 12:30hrs. (9 de mayo, 16 de mayo, 30 de mayo, 6 de junio, 13 de junio, 27 de junio, 4 de julio, 18 de julio, 25 de julio)",
+                        "instructor": {
+                            "@type": "Person",
+                            "givenName": "Javier",
+                            "familyName": "Piana",
+                            "description": "Profesor Nacional de Educación Física – Instructor del Método Pilates – Especialista en entrenamiento musculación",
+                            "nationality": {
+                                "@type": "Country",
+                                "name": "Argentina"
+                            },
+                            "affiliation": {
+                                "@type": "Organization",
+                                "name": "AMAIP",
+                                "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                            },
+                            "worksFor": {
+                                "@type": "Organization",
+                                "name": "AMAIP",
+                                "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                            }
+                        },
+                        "location": {
+                            "@type": "Place",
+                            "name": "Sede Belgrano, CABA",
+                            "address": "Av. Cabildo 34, barrio de Belgrano, CABA."
+                        },
+                        "performer": {
+                            "@type": "Organization",
+                            "name": "AMAIP",
+                            "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://amaip.com.ar/reformer.php",
+                            "availability": "https://amaip.com.ar/reformer.php",
+                            "price": "8400.0",
+                            "priceCurrency": "ARS",
+                            "validFrom": "2020-01-01"
+                        },
+                        "startDate": "2020-05-09",
+                        "endDate": "2020-07-25"
+                    },
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "AMAIP",
+                        "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                    }
+                }
+            </script>
     </body>
 </html>

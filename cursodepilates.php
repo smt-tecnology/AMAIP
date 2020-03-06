@@ -9,31 +9,7 @@
             <!-- Contenido del Sitio -->
             <div class="site-content single-entry single-entry--no-sidebar">
                 <div class="mnmd-block mnmd-block--fullwidth mnmd-block--contiguous single-entry-wrap">
-                    <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5" itemscope itemtype="http://schema.org/Article">
-                        <!-- Schema meta -->
-                        <div class="page-schema-meta">
-                            <link itemprop="mainEntityOfPage" href="#single-url" />
-                            <meta itemprop="headline" content="Nintendo is reportedly bringing Zelda to your phone this year">
-                            <meta itemprop="datePublished" content="2017-02-10">
-                            <meta itemprop="dateModified" content="2017-02-10">
-                            <meta itemprop="commentCount" content="24" />
-                            <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="url" content="#image-url" />
-                                <meta itemprop="width" content="1000" />
-                                <meta itemprop="height" content="563" />
-                            </div>
-                            <div itemscope itemprop="author" itemtype="http://schema.org/Person">
-                                <meta itemprop="name" content="Ryan Reynold">
-                            </div>
-                            <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-                                <meta itemprop="name" content="The Next Mag">
-                                <div class="hidden" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="url" content="#logo-url" />
-                                    <meta itemprop="width" content="200" />
-                                    <meta itemprop="height" content="70" />
-                                </div>
-                            </div>
-                        </div>
+                    <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5">
                         <!-- Contenido -->
                         <div class="single-content">
                             <!-- Background Image -->
@@ -66,7 +42,7 @@
 
                                         <hr>
 
-                                         <div class="cobros">
+                                        <div class="cobros">
                                             <h5 class="text-center"><strong>Precios y pagos</strong></h5>
                                             <ul class="lista-curso texto">
                                                 <li>Precio final: $2800 (ARS). No cobramos matrícula</li>
@@ -193,20 +169,7 @@
                                         </div>
 
                                         <hr>
-                                        <!--
-                                        <div class="cursadas">
-                                            <h5 class="text-center"><strong>Próximo Curso</strong></h5>
-                                            <div class="curso">
-                                                <h6><strong><i>Enero</i></strong></h6>
-                                                <ul class="lista-curso texto">
-                                                    <li>Las clases comienzan el Sábado 18 y finalizan el Domingo 19.</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        
 
-                                        <hr>
-                                        -->
                                         <div class="descripcion text-center">
                                             <div class="row justify-content-around">
                                                 <div class="elemento secundario col-sm-3">
@@ -252,5 +215,69 @@
             <!-- Footer -->
             <?php include('templates/footer.php'); ?>
         </div>
+        <!-- Schema del Sitio -->
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                "@type": "schema:Course",
+                "name": "CURSO DE PILATES REFORMER",
+                "description": "Al finalizar el curso, estarán aptos para manejar los diferentes niveles de exigencia, con la capacidad de poder desarrollar clases individuales o en grupos, y desempeñarse como profesores.",
+                "educationalCredentialAwarded": "Instructor de Pilates Reformer",
+                "occupationalCredentialAwarded": "Instructor de Pilates Reformer",
+                "hasCourseInstance": {
+                    "@type": "CourseInstance",
+                    "name": "CURSO DE PILATES REFORMER",
+                    "description": "Esta es una cursada intensiva de dos días (sábado y domingo durante todo el día).",
+                    "image": "https://amaip.com.ar/img/amaip.jpg",
+                    "courseMode": ["Presencial", "Intensivo"],
+                    "courseWorkload": "Sábados de 14hrs. a 20hrs. y Domingos de 10hrs. a 14hrs.",
+                    "instructor": {
+                        "@type": "Person",
+                        "givenName": "Javier",
+                        "familyName": "Piana",
+                        "description": "Profesor Nacional de Educación Física, Instructor del Método Pilates, Especialista en entrenamiento musculación",
+                        "nationality": {
+                            "@type": "Country",
+                            "name": "Argentina"
+                        },
+                        "affiliation": {
+                            "@type": "Organization",
+                            "name": "AMAIP",
+                            "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                        },
+                        "worksFor": {
+                            "@type": "Organization",
+                            "name": "AMAIP",
+                            "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                        }
+                    },
+                    "location": {
+                        "@type": "Place",
+                        "name": "Sede Belgrano, CABA",
+                        "address": "Av. Cabildo 34, barrio de Belgrano, CABA."
+                    },
+                    "performer": {
+                        "@type": "Organization",
+                        "name": "AMAIP",
+                        "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                    },
+                    "offers": {
+                        "@type": "Offer",
+                        "url": "https://amaip.com.ar/cursodepilates.php",
+                        "availability": "https://amaip.com.ar/cursodepilates.php",
+                        "price": "2800.0",
+                        "priceCurrency": "ARS",
+                        "validFrom": "2020-01-01"
+                    },
+                    "endDate": "2020-04-19",
+                    "startDate": "2020-04-18"
+                },
+                "provider": {
+                    "@type": "Organization",
+                    "name": "AMAIP",
+                    "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                }
+            }
+        </script>
     </body>
 </html>

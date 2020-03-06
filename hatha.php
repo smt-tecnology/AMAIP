@@ -9,31 +9,7 @@
             <!-- Contenido del Sitio -->
             <div class="site-content single-entry single-entry--no-sidebar">
                 <div class="mnmd-block mnmd-block--fullwidth mnmd-block--contiguous single-entry-wrap">
-                    <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5" itemscope itemtype="http://schema.org/Article">
-                        <!-- Schema meta -->
-                        <div class="page-schema-meta">
-                            <link itemprop="mainEntityOfPage" href="#single-url" />
-                            <meta itemprop="headline" content="Nintendo is reportedly bringing Zelda to your phone this year">
-                            <meta itemprop="datePublished" content="2017-02-10">
-                            <meta itemprop="dateModified" content="2017-02-10">
-                            <meta itemprop="commentCount" content="24" />
-                            <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="url" content="#image-url" />
-                                <meta itemprop="width" content="1000" />
-                                <meta itemprop="height" content="563" />
-                            </div>
-                            <div itemscope itemprop="author" itemtype="http://schema.org/Person">
-                                <meta itemprop="name" content="Ryan Reynold">
-                            </div>
-                            <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-                                <meta itemprop="name" content="The Next Mag">
-                                <div class="hidden" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="url" content="#logo-url" />
-                                    <meta itemprop="width" content="200" />
-                                    <meta itemprop="height" content="70" />
-                                </div>
-                            </div>
-                        </div>
+                    <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5">
                         <!-- Contenido -->
                         <div class="single-content">
                             <!-- Background Image -->
@@ -61,29 +37,18 @@
                                                     </i>
                                                 </span>
                                             </p>
-                                            <p><strong>Las fechas exactas son</strong>: 7 Marzo, 14 Marzo, 28 Marzo, 4 Abril, 11 Abril, 25 Abril, 9 Mayo, 16 Mayo, 23 Mayo</p>
+                                            <p><strong>Las fechas exactas son</strong>: 30 de Mayo, 6 de Junio, 13 de Junio, 27 de Junio, 4 de Julio, 18 de Julio, 25 de Julio, 25 de Julio, 8 de Agosto, 22 de Agosto y 29 de Agosto</p>
                                             <p><strong>Horario</strong>:Sábados de 16hs. a 19hs.</p>
                                             <p><strong>Ubicación</strong>: Doblas 1356, Parque Chacabuco, CABA.</p>
                                             
                                         </div>
-                                        <!-- guardado por las dudas para proximo curso
-                                        <div class="cursadas container container--narrow">
-                                            <h5 class="text-center"><strong>Próximo Curso</strong></h5>
-                                            <div class="curso">
-                                                <h6><strong><i>Marzo - Abril - Mayo</i></strong></h6>
-                                                <ul class="lista-curso">
-                                                    <li>Las fechas exactas del cursada son: 7 Marzo, 14 Marzo, 28 Marzo, 4 Abril, 11 Abril, 25 Abril, 9 Mayo, 16 Mayo, 23 Mayo </li>                                                                                         </ul>
-                                                </ul>
-                                            </div>
-                                            <p>* Si algún sábado no puedes asistir, la clase será filmada y compartida en grupo privado de Facebook, y podrás realizar las consultas la clase siguiente.</p>
-                                        </div>
-                                        -->
+
                                         <hr>
 
                                         <div class="cobros container container--narrow">
                                             <h5 class="text-center"><strong>HACÉ TU RESERVA</strong></h5>
                                             <ul class="lista-curso">
-                                                <li>Precio: $2.800 (ARS) por mes. No cobramos matrícula</li>
+                                                <li>Precio: $3.200 (ARS) por mes. No cobramos matrícula</li>
                                                 <li>Abonando el primer mes realizás tu reserva</li>
                                                 <li>Para completar tu reserva envíanos el comprobante, tu nombre completo y dni a: <a class="contacto" href="contacto/contacto.php">CONTACTO : INFO@AMAIP.COM.AR // 011 – 156 – 459 - 8487</a></li>
                                             </ul>
@@ -439,32 +404,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!--
-                                            <div class="nota container container--narrow">
-                                                <h5><strong>Nota:</strong></h5>
-                                                <p class="parrafo-titulo">Cada jornada finalizará con práctica de yoga guiada por el disertante.</p>
-                                                <p class="parrafo-titulo">Al finalizar éste curso se podrán realizar
-                                                diferentes especializaciones en:</p>
-                                                <ul class="container lista-curso">
-                                                    <li>Ashtanga Vinyasa Yoga (Yoga
-                                                    dinámico)</li>
-                                                    <li>Pranayamas (otras técnicas màs avanzadas para el control
-                                                    de la energía vital mediante ejercicios de respiración)</li>
-                                                    <li>Kriyas (técnicas de limpieza como Jala Neti o ducha nasal)</li>
-                                                    <li>instructorado
-                                                    de Meditación</li>
-                                                    <li>taller de Mantras (recitación y canto de frases que
-                                                    conducen al estado meditativo)</li>
-                                                    <li>especialización en yogaterapia para
-                                                    tratar dolencias específicas y diversas patologías</li>
-                                                    <li>taller de
-                                                        conocimientos básicos en ayurvéda (medicina tradicional de la
-                                                    India)</li>
-                                                    <li>masajes</li>
-                                                </ul>
-                                            </div>
                                         </div>
--->
+
                                         <hr>
                                         
                                         <div class="prologo-yoga container container--narrow">
@@ -526,20 +467,7 @@
                                         </div>
                                                                       
                                         <hr>
-<!-- guardado por las dudas
-                                        <div class="cursadas container container--narrow">
-                                            <h5 class="text-center"><strong>Próximo Curso</strong></h5>
-                                            <div class="curso">
-                                                <h6><strong><i>Marzo - Abril - Mayo</i></strong></h6>
-                                                <ul class="lista-curso">
-                                                    <li>Las fechas exactas del cursada son: 7 Marzo, 14 Marzo, 28 Marzo, 4 Abril, 11 Abril, 25 Abril, 9 Mayo, 16 Mayo, 23 Mayo </li>                                                                                         </ul>
-                                                </ul>
-                                            </div>
-                                            <p>* Si algún sábado no puedes asistir, la clase será filmada y compartida en grupo privado de Facebook, y podrás realizar las consultas la clase siguiente.</p>
-                                        </div>
 
-                                        <hr>
--->
                                         <div class="cobros container container--narrow">
                                             <h5 class="text-center"><strong>Paga Aqui</strong></h5>
                                             <!--
@@ -569,5 +497,69 @@
             <!-- Footer -->
             <?php include('templates/footer.php'); ?>
         </div>
+        <!-- Schema del Sitio -->
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                "@type": "schema:Course",
+                "name": "CURSO DE HATHA YOGA",
+                "description": "Al finalizar el curso, estarán aptos para manejar los diferentes niveles de exigencia, con la capacidad de poder desarrollar clases individuales o en grupos, y desempeñarse como profesores.",
+                "educationalCredentialAwarded": "Instructor de Yoga",
+                "occupationalCredentialAwarded": "Instructor de Yoga",
+                "hasCourseInstance": {
+                    "@type": "CourseInstance",
+                    "name": "CURSO DE HATHA YOGA",
+                    "description": "Esta es una cursada de tres meses (del 7 de Marzo al 23 de Mayo).",
+                    "image": "https://amaip.com.ar/img/yoga.jpeg",
+                    "courseMode": ["Presencial", "Regular"],
+                    "courseWorkload": "Sábados de 16hrs. a 19hrs. (7 Marzo, 14 Marzo, 28 Marzo, 4 Abril, 11 Abril, 25 Abril, 9 Mayo, 16 Mayo, 23 Mayo)",
+                    "instructor": {
+                        "@type": "Person",
+                        "givenName": "Víctor Gustavo",
+                        "familyName": "Bonventre",
+                        "description": "Profesor de Hatha Yoga – Profesor de Ashtanga Vinyasa Yoga y Yogaterapia – Coach Ayurvédico - Masoterapeuta",
+                        "nationality": {
+                            "@type": "Country",
+                            "name": "Argentina"
+                        },
+                        "affiliation": {
+                            "@type": "Organization",
+                            "name": "AMAIP",
+                            "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                        },
+                        "worksFor": {
+                            "@type": "Organization",
+                            "name": "AMAIP",
+                            "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                        }
+                    },
+                    "location": {
+                        "@type": "Place",
+                        "name": "Sede Parque Chacabuco, CABA",
+                        "address": "Doblas 1356, barrio de Parque Chacabuco, CABA."
+                    },
+                    "performer": {
+                        "@type": "Organization",
+                        "name": "AMAIP",
+                        "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                    },
+                    "offers": {
+                        "@type": "Offer",
+                        "url": "https://amaip.com.ar/hatha.php",
+                        "availability": "https://amaip.com.ar/hatha.php",
+                        "price": "8400.0",
+                        "priceCurrency": "ARS",
+                        "validFrom": "2020-01-01"
+                    },
+                    "endDate": "2020-03-07",
+                    "startDate": "2020-05-23"
+                },
+                "provider": {
+                    "@type": "Organization",
+                    "name": "AMAIP",
+                    "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                }
+            }
+        </script>
     </body>
 </html>

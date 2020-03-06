@@ -9,31 +9,7 @@
             <!-- Contenido del Sitio -->
             <div class="site-content single-entry single-entry--no-sidebar">
                 <div class="mnmd-block mnmd-block--fullwidth mnmd-block--contiguous single-entry-wrap">
-                    <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5" itemscope="itemscope" itemtype="http://schema.org/Article">
-                        <!-- Schema meta -->
-                        <div class="page-schema-meta">
-                            <link itemprop="mainEntityOfPage" href="#single-url"/>
-                            <meta itemprop="headline" content="Nintendo is reportedly bringing Zelda to your phone this year">
-                            <meta itemprop="datePublished" content="2017-02-10">
-                            <meta itemprop="dateModified" content="2017-02-10">
-                            <meta itemprop="commentCount" content="24"/>
-                            <div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
-                                <meta itemprop="url" content="#image-url"/>
-                                <meta itemprop="width" content="1000"/>
-                                <meta itemprop="height" content="563"/>
-                            </div>
-                            <div itemscope="itemscope" itemprop="author" itemtype="http://schema.org/Person">
-                                <meta itemprop="name" content="Ryan Reynold">
-                            </div>
-                            <div itemprop="publisher" itemscope="itemscope" itemtype="http://schema.org/Organization">
-                                <meta itemprop="name" content="The Next Mag">
-                                <div class="hidden" itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
-                                    <meta itemprop="url" content="#logo-url"/>
-                                    <meta itemprop="width" content="200"/>
-                                    <meta itemprop="height" content="70"/>
-                                </div>
-                            </div>
-                        </div>
+                    <article class="post post--single post-10 type-post status-publish format-standard has-post-thumbnail hentry category-abroad tag-landscape cat-5">
                         <!-- Contenido -->
                         <div class="single-content">
                             <!-- Background Image -->
@@ -59,6 +35,7 @@
                                                     </i>
                                                 </span>
                                             </p>
+                                            <p><strong>Las fechas exactas son</strong>: 3 de Marzo, 10 de Marzo, 17 de Marzo, 31 de Marzo, 7 de Abril, 14 de Abril, 21 de Abril y 28 de Abril </p>
                                             <p><strong>Horarios</strong>: martes de 15:30hs. a 16:30hs.</p>
                                             <p><strong>Ubicación</strong>: Av. Cabildo 34, barrio de Belgrano, CABA.</p>
                                         </div>
@@ -99,11 +76,13 @@
                                                 <li class="item">Al finalizar el curso, se te entregará una copia en video para que puedas disfrutarlo el tiempo que quieras.</li>
                                                 <li class="item">También se te entregará un amplio repertorio de material bibliográfico.</li>
                                             </ul>
+                                            <!--
                                             <div class="text-center">
                                                 <strong><a href="instructivos/instructivos-pilates.docx" download="instructivos/instructivos-pilates.docx">DESCARGAR INSTRUCTIVO</a></strong>
                                             </div>
+                                            -->
                                         </div>
-
+                                            
                                         <hr>
 
                                         <div class="objetivo">
@@ -197,5 +176,69 @@
             <!-- Footer -->
             <?php include('templates/footer.php'); ?>
         </div>
+        <!-- Schema del Sitio -->
+        <script type="application/ld+json">
+                {
+                    "@context": "http://schema.org/",
+                    "@type": "schema:Course",
+                    "name": "CURSO DE PILATES REFORMER ONLINE",
+                    "description": "Al finalizar el curso, estarán aptos para manejar los diferentes niveles de exigencia, con la capacidad de poder desarrollar clases individuales o en grupos, y desempeñarse como profesores.",
+                    "educationalCredentialAwarded": "Instructor de Pilates Reformer",
+                    "occupationalCredentialAwarded": "Instructor de Pilates Reformer",
+                    "hasCourseInstance": {
+                        "@type": "CourseInstance",
+                        "name": "CURSO DE PILATES REFORMER ONLINE",
+                        "description": "Esta es una cursada de dos meses (del 3 de Marzo al 28 de Abril).",
+                        "image": "https://amaip.com.ar/img/reformer5.jpg",
+                        "courseMode": ["Presencial", "Online"],
+                        "courseWorkload": "Martes de 15:30hrs. a 16:30hrs. (3 de Marzo, 10 de Marzo, 17 de Marzo, 31 de Marzo, 7 de Abril, 14 de Abril, 21 de Abril y 28 de Abril)",
+                        "instructor": {
+                            "@type": "Person",
+                            "givenName": "Javier",
+                            "familyName": "Piana",
+                            "description": "Profesor Nacional de Educación Física – Instructor del Método Pilates – Especialista en entrenamiento musculación",
+                            "nationality": {
+                                "@type": "Country",
+                                "name": "Argentina"
+                            },
+                            "affiliation": {
+                                "@type": "Organization",
+                                "name": "AMAIP",
+                                "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                            },
+                            "worksFor": {
+                                "@type": "Organization",
+                                "name": "AMAIP",
+                                "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                            }
+                        },
+                        "location": {
+                            "@type": "Place",
+                            "name": "Sede Belgrano, CABA",
+                            "address": "Av. Cabildo 34, barrio de Belgrano, CABA."
+                        },
+                        "performer": {
+                            "@type": "Organization",
+                            "name": "AMAIP",
+                            "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://amaip.com.ar/reformer.php",
+                            "availability": "https://amaip.com.ar/reformer.php",
+                            "price": "6000.0",
+                            "priceCurrency": "ARS",
+                            "validFrom": "2020-01-01"
+                        },
+                        "startDate": "2020-03-03",
+                        "endDate": "2020-04-28"
+                    },
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "AMAIP",
+                        "description": "Asociación Mutual Argentina de Instructores y Profesores."
+                    }
+                }
+        </script>
     </body>
 </html>
